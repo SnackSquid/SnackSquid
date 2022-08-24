@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @SnackSquid
-- 👀 I’m interested in web dev
-- 🌱 I’m currently learning with the Odin Project
-- 💞️ I’m looking to collaborate on nothing (YET)
-- 📫 How to reach me --> github
+## Hi, I'm Spencer Williams
+
+I'm learning web development using the Odin Project framework, but I've also done a lot of other studying in the past (looking at you high school Visual Basic class!) I already work in the IT field, but I'm looking to transition to being a full time developer. Please check out a few of my projects. I'm always working on new stuff, but these projects are completed:
+
+
+https://snacksquid.github.io/calculator/
+https://snacksquid.github.io/rock-paper-scissors/
+https://snacksquid.github.io/sign-up-form/
 
 <!---
 SnackSquid/SnackSquid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
