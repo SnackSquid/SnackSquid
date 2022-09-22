@@ -3,7 +3,7 @@
 I'm learning web development using the Odin Project framework, but I've also done a lot of other studying in the past (looking at you high school Visual Basic class!) I already work in the IT field, but I'm looking to transition to being a full time developer. Please check out a few of my projects. My current proficiencies are: HTML/CSS, JavaScript (ES6), React, Node/Express, and APIs. I'm always working on new stuff, but these projects are completed:
 
 ## Node/Express
-- https://github.com/SnackSquid/message-board
+- https://mighty-eyrie-69499.herokuapp.com/ (simple message board app)
 
 ### React
 - https://snacksquid.github.io/weather-app/ (also showcases async API calls)
