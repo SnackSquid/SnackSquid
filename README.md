@@ -10,6 +10,7 @@ I'm learning web development using the Odin Project framework, but I've also don
 - https://snacksquid.github.io/memory-card-game/
 
 ### JavaScript
+- https://snacksquid.github.io/library/
 - https://snacksquid.github.io/calculator/
 - https://snacksquid.github.io/rock-paper-scissors/
 - https://snacksquid.github.io/sign-up-form/
